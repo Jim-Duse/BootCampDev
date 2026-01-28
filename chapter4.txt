@@ -1,3 +1,33 @@
 File test - main branch -code coming soon
 
-123
+Subject
+Interest in Data Engineering Opportunities / Shadowing
+Hi [Manager’s Name],
+I hope you are doing well.
+My name is Jimmy Dusengimana, and I currently work in the IT Support team. I recently had the opportunity to speak with [Data Engineer’s Name], and he encouraged me to reach out to you regarding my interest in the Data Engineering team.
+Over the past year, I completed the IBM Data Engineering Professional Certificate through Coursera and have been building hands-on projects involving SQL, Python, ETL processes, and big data tools such as Spark and Hive. I have a strong interest in data pipelines, data architecture, and how data flows across systems to support business decisions.
+I would be extremely grateful for any opportunity to learn from your team — whether through shadowing, assisting on small tasks, internship-style involvement, or any way I can contribute while continuing to grow my skills.
+Thank you very much for your time and consideration. I would greatly appreciate the chance to speak with you further.
+Kind regards,
+Jimmy Dusengimana
+‐--------
+Subject
+Exploring Learning Opportunities with the Data Engineering Team
+Hi [Manager’s Name],
+I hope your day is going well.
+I recently spoke with [Data Engineer’s Name] about my interest in Data Engineering, and he suggested that I reach out to you. I wanted to introduce myself and express my strong interest in learning more about your team and how I might be able to contribute.
+I completed the IBM Data Engineering Professional Certificate and have been working on projects involving SQL, Python, ETL pipelines, and Spark/Hive. My goal is to transition into Data Engineering, and I am eager to gain real-world exposure by learning from experienced engineers like your team.
+If there is any opportunity for shadowing, assisting, or internship-style involvement, I would be incredibly appreciative of the chance to learn and contribute in any way possible.
+Thank you for your time, and I look forward to hearing from you.
+Best regards,
+Jimmy Dusengimana
+--------
+Subject
+Interest in Learning More About the Data Engineering Team
+Hi [Manager’s Name],
+I hope you’re doing well.
+My name is Jimmy from the IT Support team. I recently spoke with [Data Engineer’s Name], and he encouraged me to reach out to you regarding my interest in Data Engineering.
+I completed the IBM Data Engineering Professional Certificate and have been building hands-on projects with SQL, Python, ETL pipelines, and Spark/Hive. I’m very interested in growing into this field and would truly appreciate any opportunity to learn from your team — whether through shadowing, assisting, or any small way I can contribute while learning.
+Thank you very much for your time, and I would be grateful for the chance to connect.
+Best regards,
+Jimmy
